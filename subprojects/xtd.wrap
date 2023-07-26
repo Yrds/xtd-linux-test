@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = xtd-v0.0.1-beta
+
+source_url = https://github.com/gammasoft71/xtd/archive/refs/tags/v0.1.1-beta.tar.gz
+source_filename = v0.1.1-beta.tar.gz
+source_hash = 2a6b430a5e86b6c799a6295c54eae780346a2be20d210d85802489ce1afccd6e

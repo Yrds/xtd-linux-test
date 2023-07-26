@@ -1,0 +1,6 @@
+*.log
+build
+debug
+subprojects/*
+!subprojects/*.wrap
+!subprojects/packagefiles
